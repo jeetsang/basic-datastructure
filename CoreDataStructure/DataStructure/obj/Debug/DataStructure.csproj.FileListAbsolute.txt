@@ -1,4 +1,0 @@
-D:\MyUniverse\basic-datastructure\CoreDataStructure\DataStructure\bin\Debug\DataStructure.dll
-D:\MyUniverse\basic-datastructure\CoreDataStructure\DataStructure\bin\Debug\DataStructure.pdb
-D:\MyUniverse\basic-datastructure\CoreDataStructure\DataStructure\obj\Debug\DataStructure.dll
-D:\MyUniverse\basic-datastructure\CoreDataStructure\DataStructure\obj\Debug\DataStructure.pdb

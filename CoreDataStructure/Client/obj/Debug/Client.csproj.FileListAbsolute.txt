@@ -1,8 +1,0 @@
-D:\MyUniverse\basic-datastructure\CoreDataStructure\Client\bin\Debug\Client.exe.config
-D:\MyUniverse\basic-datastructure\CoreDataStructure\Client\bin\Debug\Client.exe
-D:\MyUniverse\basic-datastructure\CoreDataStructure\Client\bin\Debug\Client.pdb
-D:\MyUniverse\basic-datastructure\CoreDataStructure\Client\bin\Debug\DataStructure.dll
-D:\MyUniverse\basic-datastructure\CoreDataStructure\Client\bin\Debug\DataStructure.pdb
-D:\MyUniverse\basic-datastructure\CoreDataStructure\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
-D:\MyUniverse\basic-datastructure\CoreDataStructure\Client\obj\Debug\Client.exe
-D:\MyUniverse\basic-datastructure\CoreDataStructure\Client\obj\Debug\Client.pdb
