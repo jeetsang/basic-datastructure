@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{B5F4A34E-F796-4B80-8226-6C1770E0F2F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{A4AA9EFE-77F2-425C-A02B-A27A078E800F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure.Test", "DataStructure.Test\DataStructure.Test.csproj", "{A4AA9EFE-77F2-425C-A02B-A27A078E800F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

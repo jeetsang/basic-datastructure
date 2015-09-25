@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DataStructure")]
+[assembly: AssemblyTitle("DataStructure.Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ThoughtWorks")]
-[assembly: AssemblyProduct("DataStructure")]
-[assembly: AssemblyCopyright("Copyright © ThoughtWorks 2015")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("DataStructure.Test")]
+[assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a6592767-a7d0-48b2-bc43-99dc8ed0c3df")]
+[assembly: Guid("17ee56c5-215f-4d11-8a88-7f77456b07e2")]
 
 // Version information for an assembly consists of the following four values:
 //
