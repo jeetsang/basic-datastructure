@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Heap.cs" />
     <Compile Include="InsertationSort.cs" />
     <Compile Include="KnuthSuffle.cs" />
     <Compile Include="MaxPq.cs" />

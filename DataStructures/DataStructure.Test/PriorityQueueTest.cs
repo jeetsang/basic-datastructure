@@ -2,7 +2,7 @@
 using DataStructure;
 using NUnit.Framework;
 
-namespace DSTest
+namespace DataStructureTest
 {
     [TestFixture]
     public class PriorityQueueTest

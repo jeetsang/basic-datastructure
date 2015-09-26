@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DSTest
+namespace DataStructureTest
 {
     public class Person:IComparable<Person>
     {
