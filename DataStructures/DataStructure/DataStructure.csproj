@@ -39,10 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinarySearchTree.cs" />
     <Compile Include="Heap.cs" />
     <Compile Include="InsertationSort.cs" />
     <Compile Include="KnuthSuffle.cs" />
     <Compile Include="MaxPq.cs" />
+    <Compile Include="Properties\Annotations.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Queue.cs" />
     <Compile Include="SelectionSort.cs" />

@@ -45,6 +45,7 @@ x64/
 
 # ReSharper is a .NET coding add-in
 _ReSharper*
+*sln.DotSettings
 
 # DocProject is a documentation generator add-in
 DocProject/buildhelp/

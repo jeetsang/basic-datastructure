@@ -1,4 +1,5 @@
-﻿using DataStructure;
+﻿using System;
+using DataStructure;
 using NUnit.Framework;
 
 namespace DataStructureTest
@@ -6,31 +7,31 @@ namespace DataStructureTest
     [TestFixture]
     public class SortingTest
     {
+        private const int OneMillion = 1000000;
+        private IComparable[] sortingData;
+
         [SetUp]
         public void Setup()
         {
+            sortingData = RandomNumberGenerator.GetIntegerArrayOf(OneMillion);
         }
 
         [Test, MaxTime(4000)]
         public void HeapSortShouldCompleteInSpecifiedTimeForHugeN()
         {
             var heapSort = new Heap();
-            const int oneMillion = 1000000;
-            var integerArray = RandomNumberGenerator.GetIntegerArrayOf(oneMillion);
-            heapSort.Sort(integerArray);
+            heapSort.Sort(sortingData);
         }
 
         [Test]
         public void HeapSortShouldSortData()
         {
             var heapSort = new Heap();
-            const int oneMillion = 1000000;
             var expected = true;
-            var integerArray = RandomNumberGenerator.GetIntegerArrayOf(oneMillion);
-            heapSort.Sort(integerArray);
-            for (var i = 0; i < oneMillion - 1; i++)
+            heapSort.Sort(sortingData);
+            for (var i = 0; i < OneMillion - 1; i++)
             {
-                if (integerArray[i + 1].CompareTo(integerArray[i]) >= 0) continue;
+                if (sortingData[i + 1].CompareTo(sortingData[i]) >= 0) continue;
                 expected = false;
                 break;
             }
